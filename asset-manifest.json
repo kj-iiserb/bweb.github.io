@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kj-iiserb/static/css/main.d8bcf998.css",
+    "main.js": "/kj-iiserb/static/js/main.e018db9f.js",
+    "static/media/group_photo.png": "/kj-iiserb/static/media/group_photo.1f283e91160566a4a19d.png",
+    "static/media/visdom.png": "/kj-iiserb/static/media/visdom.aff83adb52d1722431a8.png",
+    "index.html": "/kj-iiserb/index.html",
+    "main.d8bcf998.css.map": "/kj-iiserb/static/css/main.d8bcf998.css.map",
+    "main.e018db9f.js.map": "/kj-iiserb/static/js/main.e018db9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bcf998.css",
+    "static/js/main.e018db9f.js"
+  ]
+}

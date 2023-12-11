@@ -1,0 +1,27 @@
+[{
+    "title": "Distilling Knowledge for Occlusion Robust Monocular 3D Face Reconstruction",
+    "image": "/images/publications/ivc_3.jpg",
+    "authors": "H. Tiwari, Vinod K Kurmi, Venkatesh K Subramanian, Yong-Sheng Chen",
+    "conference": "Image and Vision Computing,(IMAVIS), 2023",
+    "links":{
+      "pdf":"https://www.isca-speech.org/archive/pdfs/interspeech_2022/r22_interspeech.pdf"
+    },
+    "details":{
+      "abstract":"Recently, there have been significant advancements in the 3D face reconstruction field, largely driven by monocular image-based deep learning methods. However, these methods still face challenges in reliable deployments due to their sensitivity to facial occlusions and inability to maintain identity consistency across different occlusions within the same facial image. To address these issues, we propose two frameworks: Distillation Assisted Mono Image Occlusion Robustification (DAMIOR) and Duplicate Images Assisted Multi Occlusions Robustification (DIAMOR). The DAMIOR framework leverages the knowledge from the Occlusion Frail Trainer (OFT) network to enhance robustness against facial occlusions. Our proposed method overcomes the sensitivity to occlusions and improves reconstruction accuracy. To tackle the issue of identity inconsistency, the DIAMOR framework utilizes the estimates from DAMIOR to mitigate inconsistencies in geometry and texture, collectively known as identity, of the reconstructed 3D faces. We evaluate the performance of DAMIOR on two variations of the CelebA test dataset: empirical occlusions and irrational occlusions. Furthermore, we analyze the performance of the proposed DIAMOR framework using the irrational occlusion-based variant of the CelebA test dataset. Our methods outperform state-of-the-art approaches by a significant margin. For example, DAMIOR reduces the 3D vertex-based shape error by 41.1% and the texture error by 21.8% for empirical occlusions. Besides, for facial data with irrational occlusions, DIAMOR achieves a substantial decrease in shape error by 42.5% and texture error by 30.5%. These results demonstrate the effectiveness of our proposed methods.",
+      "bibtex":"@inproceedings{hitika_ivc3,\nAuthor = {Tiwari, Hitika\nand Kurmi, Vinod K\nand  Subramanian,\nVenkatesh K and\nChen, Yong Sheng },\nTitle = {Distilling Knowledge\nfor Occlusion Robust Monocular\n3D Face Reconstruction},\nBooktitle = {InterSpeech},\nYear = {2022}\n}"
+    }    
+  },
+  {
+    "title": "Generalized Keyword Spotting using ASR embeddings",
+    "image": "/images/publications/intersp.jpg",
+    "authors": "Kirandevraj R, Vinod K Kurmi, Vinay P Namboodiri, C V Jawahar",
+    "conference": "Conference of the International Speech Communication Association (Interspeech) 2022, Incheon Korea",
+    "links":{
+      "pdf":"Conference of the International Speech Communication Association (Interspeech) 2022, Incheon Korea"
+    },
+    "details":{
+      "abstract":"Keyword Spotting (KWS) detects a set of pre-defined spoken keywords. Building a KWS system for an arbitrary set re- quires massive training datasets. We propose to use the text transcripts from an Automatic Speech Recognition (ASR) sys- tem alongside triplets for KWS training. The intermediate rep- resentation from the ASR system trained on a speech corpus is used as acoustic word embeddings for keywords. Triplet loss is added to the Connectionist Temporal Classification (CTC) loss in the ASR while training. This method achieves an Average Precision (AP) of 0.843 over 344 words unseen by the model trained on the TIMIT dataset. In contrast, the Multi-View re- current method that learns jointly on the text and acoustic em- beddings achieves only 0.218 for out-of-vocabulary words. This method is also applied to low-resource languages such as Tamil by converting Tamil characters to English using transliteration. This is a very challenging novel task for which we provide a dataset of transcripts for the keywords. Despite our model not generalizing well, we achieve a benchmark AP of 0.321 on over 38 words unseen by the model on the MSWC Tamil keyword set. The model also produces an accuracy of 96.2% for classifi- cation tasks on the Google Speech Commands dataset.",
+      "bibtex":"@inproceedings{kiran_inter22,\nAuthor = {R,Kiran.\nand Kurmi, Vinod K\nand Namboodiri, Vinay P\nand Jawhar, CV},\nTitle = {Generalized Keyword\nSpotting using ASR embeddings},\nBooktitle = {InterSpeech},\nYear   = {2022}\n}\n}"
+    }    
+  }
+]

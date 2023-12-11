@@ -1,0 +1,49 @@
+[
+    {
+        "pictureURL": "/images/rini.png",
+        "name": "Rini Smita Thakur",
+        "designation": "Post Doctoral Fellow",
+        "about": "PhD (MANIT Bhopal) Fair deep learning",
+        "moreInfo":"I have done image denoising using convolutional neural networks as part of my PhD dissertation work. I did a project on ECG signal denoising too. I am looking forward to explore deep learning applications in the area of image/ signal processing.",
+        "email": "rini@iiserb.ac.in",
+        "social": "https://scholar.google.co.in/citations?user=6bnMJPwAAAAJ&hl=en"
+    },
+    {
+        "pictureURL": "/images/rajeev.png",
+        "name": "Rajeev Ranjan Dwivedi",
+        "designation": "PhD Research Scholar",
+        "about": "Fairness in AI",
+        "moreInfo":"I primaril work around Fairness in AI and debiasing AI-ML models. I also contribute to the field of transfer learning, machine unlearning and semantic segementation in vision. Apart from this, I am also interested in the field of LLMs and knowledge graphs.",
+        "email": "rajeev22@iiserb.ac.in",
+        "social": "https://rajeev-dw9.github.io/",
+        "social2": "https://www.linkedin.com/in/rrd27/"
+    },
+    {
+        "pictureURL": "/images/pari.png",
+        "name": "Parinita Nema",
+        "designation": "PhD Research Scholar",
+        "about": "Continual Learning",
+        "moreInfo":"My name is Parinita Nema. I am currently pursuing PhD. in the Data Science and Engineering Department at Indian Institute of Science Education and Research (IISER-B) with a UGC-JRF fellowship. I completed my Bachelor's and Master's degrees at the Vikram University, Ujjain in Computer Science. My Research areas of interest include Deep learning and Computer Vision.",        
+        "email": "parinita22@iiserb.ac.in ",
+        "social": "https://www.linkedin.com/in/parinita-nema-9313aa263/"
+    },
+    {
+        "pictureURL": "/images/any.png",
+        "name": "Akanksha Singh",
+        "designation": "PhD Research Scholar",
+        "about": "Machine Unlearning",
+        "moreInfo":"",
+        "email": "akanksha23@iiserb.ac.in",
+        "social": "https://www.linkedin.com/in/akanksha-singh-bbba78137/"
+    },
+    {
+        "pictureURL": "/images/kunal.png",
+        "name": "Kunal Jangid",
+        "designation": "Project - JRF",
+        "about": "Medical Image Segmentation",
+        "moreInfo":"I hold an Integrated MSc degree in Computer Science (AI) from the Central University of Rajasthan. I have a keen interest in Deep Learning, Natural Language Processing, and Computer Vision. My expertise is demonstrated through projects in Sentiment Analysis, POI Recommendation, and Neural Style Transfer.",
+        "email": "kunaljangid@iiserb.ac.in",
+        "social": "https://www.linkedin.com/in/kunal-jangid-3010nd1712/"
+    }
+
+]
