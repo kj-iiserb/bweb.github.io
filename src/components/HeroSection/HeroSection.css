@@ -1,0 +1,55 @@
+.hero-section{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center;
+    
+}
+.highlight-letter {
+    color: #FF6600; 
+   /*
+    font-style: ;*/
+  } 
+.hero-section__logo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_section_about{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.hero_section_about ul {
+    list-style-type: disc; /* Use disc bullets */
+    padding-left: 30px; /* Add left padding to the list items */
+    margin-top: 5px; /* Add top margin for spacing */
+    margin-bottom: 5px;
+  }
+
+
+
+.about_inner_wrapper{
+    width: 80%;
+}
+
+@media (max-width:768px) {
+    .hero-section{
+        flex-direction: column;
+    }
+    .hero-section__logo{
+        width: 70%;
+    } 
+    .hero_section_about{
+        width: 100%;
+    }
+    .linksWrapper {
+        padding: 40px 0px;
+        box-sizing: border-box;
+    }
+}

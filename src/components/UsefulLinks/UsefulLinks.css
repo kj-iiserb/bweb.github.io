@@ -1,0 +1,18 @@
+.linksWrapper{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 20px;
+    background: linear-gradient(120deg, #0cf9e5, #5a84eb);
+    padding: 35px;
+    align-items: center;
+}
+
+.linksCardsWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}

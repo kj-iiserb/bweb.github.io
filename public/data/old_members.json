@@ -1,0 +1,30 @@
+[
+    {
+        "pictureURL": "/images/rini.jpg",
+        "name": "Rini Smita Thakur",
+        "designation": "Project Associate",
+        "about": "PhD (MANIT Bhopal) Fair deep learning",
+        "moreInfo":"I have done image denoising using convolutional neural networks as part of my PhD dissertation work. I did a project on ECG signal denoising too. I am looking forward to explore deep learning applications in the area of image/ signal processing."
+    },
+    {
+        "pictureURL": "/images/shivam.jpeg",
+        "name": "Shivam Pal",
+        "designation": "Project Associate",
+        "about": "IISER-Bhopal, BS-MS Physics Computer Vision",
+        "moreInfo":"I completed my Bachelor's and Master's degree in Physics and am currently delving into the fields of Deep Learning and AI. My areas of interest include Computer Vision, Geometric Deep Learning, and Deep Reinforcement Learning. I am open to interdisciplinary research opportunities. Currently, I am working on a project involving the application of computer vision to medical images."
+    },
+    {
+        "pictureURL": "/images/rajeev.png",
+        "name": "Rajeev Ranjan Dwivedi",
+        "designation": "PhD Research Scholar",
+        "about": "IISER Bhopal (DSE) Transfer Learning in CV",
+        "moreInfo":"I am a first year PhD student in Data Science at the Department of Data Science & Engineering, IISER-B. My primary research interests include topics in Computer Vision with the current focus being on developing and applying Transfer Learning techniques to various Image processing tasks."
+    },
+    {
+        "pictureURL": "/images/parinita2.jpg",
+        "name": "Parinita Nema",
+        "designation": "PhD Research Scholar",
+        "about": "IISER Bhopal (DSE) Incremental learning in CV",
+        "moreInfo":"My name is Parinita Nema. I am currently pursuing PhD. in the Data Science and Engineering Department at Indian Institute of Science Education and Research (IISER-B) with a UGC-JRF fellowship. I completed my Bachelor's and Master's degrees at the Vikram University, Ujjain in Computer Science. My Research areas of interest include Deep learning and Computer Vision."
+    }
+]
